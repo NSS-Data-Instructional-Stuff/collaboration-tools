@@ -1,4 +1,3 @@
-# Kanban
+# Collaboration Tools
 
-# Introduction
-Starting to add some new content
+Materials realted to git/github, agile methods, and other collaboration tools.
